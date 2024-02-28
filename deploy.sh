@@ -1,0 +1,1 @@
+rclone sync --interactive public/ hugo:public_html/
