@@ -1,5 +1,5 @@
 baseURL: https://mobert.io/
-title: Moritz Ebert
+title: mobert.io
 paginate: 5
 theme: PaperMod
 
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "mobert.io"
+    text: "Moritz Ebert"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
