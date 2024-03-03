@@ -53,17 +53,17 @@ params:
 
   label:
     text: "Moritz Ebert"
-    icon: memoji.png
+    icon: 
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: enable # needs to be explicitly set
-    title: "Hallo \U0001F44B"
+    title: "Hallo"
     subtitle: "hier steht bestimmt bald mehr"
-    imageUrl: "memoji.png"
-    imageWidth: 280
-    imageHeight: 280
+    imageUrl: "memoji-hello.png"
+    imageWidth: 320
+    imageHeight: 320
     imageTitle: memoji
     buttons:
       #- name: Posts
