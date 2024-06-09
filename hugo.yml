@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: enable # needs to be explicitly set
     title: "Hallo"
-    subtitle: "hier steht bestimmt bald mehr"
+    subtitle: "hier steht bestimmt bald mehr :)"
     imageUrl: "memoji-hello.png"
     imageWidth: 320
     imageHeight: 320
