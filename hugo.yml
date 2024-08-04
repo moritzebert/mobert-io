@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: enable # needs to be explicitly set
-    title: "Hallo"
+    title: "Hallo :wave:"
     subtitle: "hier steht bestimmt bald mehr :)"
     imageUrl: "memoji-hello.png"
     imageWidth: 320
@@ -73,7 +73,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hallo \U0001F44B"
+    Title: "Hallo :wave:"
     Content: hier steht bestimmt bald mehr
 
   socialIcons:
