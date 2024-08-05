@@ -1,1 +1,1 @@
-rclone sync --interactive public/ hugo:public_html/
+rclone sync --interactive public/ mobert-io:public_html/

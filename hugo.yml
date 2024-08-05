@@ -1,5 +1,5 @@
 baseURL: https://mobert.io/
-title: mobert.io
+title: "Moritz Ebert"
 paginate: 5
 theme: PaperMod
 
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: enable # needs to be explicitly set
-    title: "Hallo :wave:"
+    title: "Hallo \01F44B"
     subtitle: "hier steht bestimmt bald mehr :)"
     imageUrl: "memoji-hello.png"
     imageWidth: 320
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hallo :wave:"
-    Content: hier steht bestimmt bald mehr
+    Title: "Hallo \01F44B"
+    Content: "hier steht bestimmt bald mehr :)"
 
   socialIcons:
     - name: email
