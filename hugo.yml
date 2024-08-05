@@ -4,6 +4,7 @@ paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
+enableEmoji: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -59,7 +60,7 @@ params:
   # profile-mode
   profileMode:
     enabled: enable # needs to be explicitly set
-    title: "Hallo \01F44B"
+    title: "Hallo"
     subtitle: "hier steht bestimmt bald mehr :)"
     imageUrl: "memoji-hello.png"
     imageWidth: 320
@@ -73,7 +74,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hallo \01F44B"
+    Title: "Hallo"
     Content: "hier steht bestimmt bald mehr :)"
 
   socialIcons:
