@@ -84,9 +84,6 @@ params:
       url: "https://discordapp.com/users/221706874200915969"
     - name: linkedin
       url: "https://www.linkedin.com/in/moritz-ebert-31b98625b/"
-    - name: github
-      url: "https://github.com/mobert123"
-
 
   analytics:
     google:
