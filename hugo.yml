@@ -1,6 +1,6 @@
 baseURL: https://mobert.io/
 title: "Moritz Ebert"
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -26,6 +26,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  social: true
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -79,7 +80,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:hello@mobert.io"
+      url: "mailto:moritz.ebert@mailbox.org"
     - name: discord
       url: "https://discordapp.com/users/221706874200915969"
     - name: linkedin
