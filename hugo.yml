@@ -20,11 +20,10 @@ params:
   title: "Moritz Ebert"
   description: 
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
+  author: Moritz Ebert
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: auto
   disableThemeToggle: false
   social: true
 
@@ -68,10 +67,10 @@ params:
     imageHeight: 320
     imageTitle: memoji
     buttons:
-      #- name: Posts
-      #  url: posts
-      #- name: Tags
-      #  url: tags
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -87,8 +86,8 @@ params:
       url: "https://www.linkedin.com/in/moritz-ebert-31b98625b/"
 
   analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
+    #google:
+    #  SiteVerificationTag: "XYZabc"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:

@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mobert.io/categories/</loc>
-  </url><url>
     <loc>https://mobert.io/</loc>
+    <lastmod>2025-02-28T23:37:40+01:00</lastmod>
+  </url><url>
+    <loc>https://mobert.io/posts/</loc>
+    <lastmod>2025-02-28T23:37:40+01:00</lastmod>
+  </url><url>
+    <loc>https://mobert.io/categories/</loc>
   </url><url>
     <loc>https://mobert.io/tags/</loc>
   </url>
