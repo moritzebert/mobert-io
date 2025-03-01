@@ -16,3 +16,4 @@ Ich brauche also eine Methode, um disese Daten verschlüsselt in die Cloud zu ü
 3. **Einfachheit**: Einfache Nutzung über eine benutzerfreundliche Kommandozeile
 4. **Automatisierbarkeit**: Einfach in Skripte oder Cronjobs integrierbar
 5. **Flexibilität**: Unterstützt verschiedene Protokolle zur Übertragung (SFTP, REST, Rsync)
+

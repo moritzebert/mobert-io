@@ -19,7 +19,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Moritz Ebert"
   description: 
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio]
   author: Moritz Ebert
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -86,8 +86,8 @@ params:
       url: "https://www.linkedin.com/in/moritz-ebert-31b98625b/"
 
   analytics:
-    #google:
-    #  SiteVerificationTag: "XYZabc"
+    google:
+      SiteVerificationTag: "XYZabc"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -117,9 +117,9 @@ params:
 menu:
   main:
     - identifier: posts
-    #  name: posts
-    #  url: /posts/
-    #  weight: 10
+      name: Posts
+      url: /posts/
+      weight: 10
     #- identifier: tags
     #  name: tags
     #  url: /tags/
