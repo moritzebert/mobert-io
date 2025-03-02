@@ -11,7 +11,15 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 12:19:40 +0100</lastBuildDate>
     <atom:link href="https://mobert.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backups mit restic von Trunas Scale auf Hetzner Storage Box</title>
+      <link>https://mobert.io/posts/backups-with-restic-on-truenas/</link>
+      <pubDate>Sun, 02 Mar 2025 12:19:40 +0100</pubDate>
+      <guid>https://mobert.io/posts/backups-with-restic-on-truenas/</guid>
+      <description>&lt;p&gt;Bis vor Kurzem hatte ich keine durchdachte Backup-Strategie für mein NAS. Ich replizierte die Daten lediglich auf eine externe Festplatte, die sich ebenfalls in meiner Wohnung befindet – also die einzige Kopie meiner Daten.&lt;/p&gt;
+&lt;p&gt;Inzwischen nutze ich mein Homelab produktiv und speichere wichtige Daten bevorzugt auf meinem NAS. Daher benötige ich eine zuverlässige Methode, um diese Daten verschlüsselt in die Cloud zu sichern und im Falle eines Ausfalls wiederherstellen zu können.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
