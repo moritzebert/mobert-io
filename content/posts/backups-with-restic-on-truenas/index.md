@@ -7,9 +7,9 @@ draft = false
 
 Bis vor Kurzem hatte ich keine durchdachte Backup-Strategie für mein NAS. Ich replizierte die Daten lediglich auf eine externe Festplatte, die sich ebenfalls in meiner Wohnung befindet – also die einzige Kopie meiner Daten.
 
-Inzwischen nutze ich mein Homelab produktiv und speichere wichtige Daten bevorzugt auf meinem NAS. Daher benötige ich eine zuverlässige Methode, um diese Daten verschlüsselt in die Cloud zu sichern und im Falle eines Ausfalls wiederherstellen zu können.
+Inzwischen nutze ich mein NAS produktiv und speichere dort bevorzugt wichtige Daten. Daher benötige ich eine zuverlässige Methode, um diese Daten verschlüsselt in die Cloud zu sichern und im Falle eines Ausfalls wiederherstellen zu können.
 
-Hierfür habe ich mich für <a href="https://restic.net" target="_blank">**restic**</a> entschieden.
+Hierfür habe ich mich für **restic** entschieden.
 
 ---
 
